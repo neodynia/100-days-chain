@@ -1,0 +1,37 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "dependencies": {
+    "eslint": "^5.0.1"
+  },
+  "name": "100-days-chain",
+  "description": "## Ryan Boris",
+  "version": "1.0.0",
+  "main": "scripts/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neodynia/100-days-chain.git"
+  },
+  "keywords": [
+    "100",
+    "days",
+    "of",
+    "code"
+  ],
+  "author": "ryan boris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neodynia/100-days-chain/issues"
+  },
+  "homepage": "https://github.com/neodynia/100-days-chain#readme"
+}
